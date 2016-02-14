@@ -1,5 +1,5 @@
 ---
-title: "RMTest"
+title: "RMDTest"
 author: "Perraine"
 date: "14 February 2016"
 output: html_document
